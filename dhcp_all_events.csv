@@ -1,0 +1,5 @@
+time,src,dst,bootp_op,dhcp_type,ciaddr,yiaddr,siaddr,giaddr,chaddr,requested_ip
+2004-12-05T19:16:24.317453000Z,0.0.0.0,255.255.255.255,Unknown,Unknown,,,,,,
+2004-12-05T19:16:24.317748000Z,192.168.0.1,192.168.0.10,Unknown,Unknown,,,,,,
+2004-12-05T19:16:24.387484000Z,0.0.0.0,255.255.255.255,Unknown,Unknown,,,,,,
+2004-12-05T19:16:24.387798000Z,192.168.0.1,192.168.0.10,Unknown,Unknown,,,,,,
